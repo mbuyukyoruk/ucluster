@@ -21,7 +21,7 @@ tqdm                                                    refer to https://pypi.or
 
 Input Paramaters (REQUIRED):
 ----------------------------
-	-i/--input		Fasta		    Specify an original fasta file exctract clusters.
+	-i/--input	Fasta		Specify an original fasta file exctract clusters.
 
 	-l/--list       Uclust          Specify an uclust output file that contains cluster informations.
 
@@ -29,5 +29,5 @@ Input Paramaters (REQUIRED):
 
 Basic Options:
 --------------
-	-h/--help		HELP			Shows this help text and exits the run.
+	-h/--help	HELP		Shows this help text and exits the run.
 
